@@ -164,6 +164,7 @@ button {
   background-color: #ffdb70;
   color: black;
   box-shadow: var(--shadow-1);
+  
 }
 
 input, textarea {
